@@ -23,6 +23,7 @@ Company Lockers Pvt. Ltd. hired you as a Full Stack Developer. They aim to digit
    Open LockedMeMain.java and Run
 
 * Component Hierarchy
+
 File	                    Description
 _________________________________________________________________________________________________________________________________________________________
 LockedMeMain.java   |	This component contains the Main method. It's the entry point of the program.
