@@ -14,7 +14,9 @@ View project locally
 * To try out the project in your local machine:
 
 clone this repository using git clone
+
 Open the folder from Eclipse
+
 Open LockedMeMain.java and Run
 
 * Component Hierarchy
