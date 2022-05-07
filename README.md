@@ -4,20 +4,20 @@ Phase1 Project: **LockedMe - Virtual Key for Repositories**
 
 Company Lockers Pvt. Ltd. hired you as a Full Stack Developer. They aim to digitize their products and chose LockedMe.com as their first project to start with.
 
-# Simple Java Console based program to allows user to input menu options for
+* Simple Java Console based program to allows user to input menu options for
 
 Displaying File/Folder structure.
 Search for File/Folder recursively.
 Add/Delete File/Folder recursively.
 View project locally
 
-# To try out the project in your local machine:
+* To try out the project in your local machine:
 
 clone this repository using git clone
 Open the folder from Eclipse
 Open LockedMeMain.java and Run
 
-# Component Hierarchy
+* Component Hierarchy
 File	                    Description
 _________________________________________________________________________________________________________________________________________________________
 LockedMeMain.java   |	This component contains the Main method. It's the entry point of the program.
@@ -26,7 +26,7 @@ HandleOptions.java  |	This component contains methods for handling different opt
 FileOperations.java |	This component defines all the operations required for displaying, searching, deleting and adding files/folder.
 __________________________________________________________________________________________________________________________________________________________
 
-# Generic features and operations available: 
+* Generic features and operations available: 
 
   1)  Retrieving the file names in an ascending order
 
@@ -38,7 +38,7 @@ ________________________________________________________________________________
 
   3)  Option to close the application
   
-# Code designed to display the welcome screen. It displays:
+* Code designed to display the welcome screen. It displays:
 
 Application name and the developer details
 
